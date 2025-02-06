@@ -1,4 +1,3 @@
-# Finance-Analytics-SQL
 # 🛠️ Finance-Analytics-SQL
 
 Welcome to my SQL portfolio! This repository showcases my SQL expertise through various projects, demonstrating my ability to handle complex queries, database management, and business insights.  
