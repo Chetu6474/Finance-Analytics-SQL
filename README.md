@@ -27,7 +27,7 @@ I have developed a strong foundation in SQL, mastering key concepts such as:
 
 ### 🔍 Ad Hoc Analysis for Various Business Domains  
 
-I have conducted advanced SQL-based ad hoc analyses across multiple business domains, including:  
+I have conducted advanced SQL-based ad hoc analysis across multiple business domains, including:  
 
 - **Finance**  
 - **Marketing**  
